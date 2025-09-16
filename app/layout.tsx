@@ -1,5 +1,6 @@
 import "./globals.css";
-import { EditorProvider } from "@/src/lib/editorMode";
+import { EditorProvider } from "../src/lib/editorMode";
+
 
 export const metadata = {
   title: "The (un)Stable Net",
